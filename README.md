@@ -1,6 +1,6 @@
 
 ### Olá, sou Crowlevy(NERDOLA) ✌️
-[![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_joao.pedro.m)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joaopedro.jar)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/crowlevy)
 
 [![Crowlevy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=crowlevy&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/crowlevy/github-readme-stats#gh-dark-mode-only)
