@@ -1,172 +1,82 @@
-# 🤓 João Pedro
+<h1 align="center">João Pedro - Software Engineer & Pentester</h1>
 
-**`Engenheiro de Software e Pentester`**
-
-<p align="left">
-    <a href="https://github.com/crowlevy?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/fernandoxconceicao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/crowlevy?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/crowlevy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://github.com/crowlevy?tab=followers">
+    <img src="https://img.shields.io/github/followers/crowlevy?label=Seguidores&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/crowlevy?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/crowlevy?label=Estrelas&style=for-the-badge&logo=github" alt="Total Stars" />
+  </a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=crowlevy">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=crowlevy" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-### Linguagens e Tecnologias
+## Sobre Mim
 
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+- Atualmente: Desenvolvendo aplicações backend, fullstack e realizando testes de invasão em pequenas empresas (Pentesting)
+- Estudando: Cloud Security, Exploits Web, e AI aplicada à Segurança
+- Posso te ajudar com: Desenvolvimento Backend, Segurança de Aplicações, e Boas Práticas de Código
+- Foco atual: Cloud Security e Pentest avançado
+- Hobbies: CTFs, Ethical Hacking e Games
 
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
+## Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="Bash"
-    title="Bash" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,php,cs,cpp,nodejs,react,ts,nextjs,postgres,jquery,linux,mysql,git" alt="Tech stack" />
+  </a>
+</p>
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+---
 
+## Minhas Estatísticas no GitHub
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crowlevy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crowlevy&layout=compact&theme=tokyonight&custom_title=Linguagens+Mais+Usadas" alt="Top Languages" />
+</p>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+## GitHub Streaks
 
-<img 
-    align="left" 
-    alt="NextJS" 
-    title="NextJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=crowlevy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img 
-    align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
+## Troféus do GitHub
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=crowlevy&theme=tokyonight&no-frame=true&row=1&&margin-w=15" alt="Trophies" />
+</p>
 
-<br/>
-<br/>
+---
 
-### Estatísticas
+## Projetos Recentes
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=crowlevy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+-  Projetos de Sniffer Para Pentest
+-  Projetos de Algoritmos de criptografia  
+-  Plataforma de Controle de Projetos em Java e Spring Boot   
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=crowlevy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+>  Confira mais nos meus [repositórios públicos](https://github.com/crowlevy?tab=repositories)
 
+---
+
+## Fale Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-dev-back-end-7a3866283/)  
+- [Email](mailto:seuemail@gmail.com)  
+- [Site pessoal (opcional)](https://seusite.com)  
+
+---
+
+<p align="center">
+  Feito por Crowlevy | Última atualização automática: <!--START_SECTION:updated_date--><!--END_SECTION:updated_date-->
 </p>
