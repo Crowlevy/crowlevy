@@ -73,7 +73,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-dev-back-end-7a3866283/)  
 - [Email](mailto:seuemail@gmail.com)  
-- [Site pessoal (opcional)](https://seusite.com)  
 
 ---
 
