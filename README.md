@@ -67,6 +67,7 @@
 
 >  Confira mais nos meus [repositórios públicos](https://github.com/crowlevy?tab=repositories)
 
+- Obrigado por estar aqui!
 ---
 
 ## Fale Comigo
