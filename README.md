@@ -67,14 +67,13 @@
 
 >  Confira mais nos meus [repositórios públicos](https://github.com/crowlevy?tab=repositories)
 
-- Obrigado por estar aqui!
 ---
 
 ## Fale Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-dev-back-end-7a3866283/)  
 - [Email](mailto:seuemail@gmail.com)  
-
+- Obrigado por estar aqui!
 ---
 
 <p align="center">
