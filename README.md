@@ -1,4 +1,4 @@
-<h1 align="center">João Pedro - Software Engineer & Pentester</h1>
+<h1 align="center">Software Engineer, Pentester & Founder | CEO @Lumethros</h1>
 
 <p align="center">
   <a href="https://github.com/crowlevy?tab=followers">
@@ -16,7 +16,7 @@
 
 ## Sobre Mim
 
-- Atualmente: Desenvolvendo aplicações backend, fullstack e realizando testes de invasão em pequenas empresas (Pentesting)
+- Atualmente: Sou fundador e CEO da Lumethros, onde aplico tecnologia e inovação para criar soluções digitais estratégicas que geram resultados reais para empresas.
 - Estudando: Cloud Security, Exploits Web, e AI aplicada à Segurança
 - Posso te ajudar com: Desenvolvimento Backend, Segurança de Aplicações, e Boas Práticas de Código
 - Foco atual: Cloud Security e Pentest avançado
@@ -71,8 +71,9 @@
 
 ## Fale Comigo
 
-- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-dev-back-end-7a3866283/)  
-- [Email](mailto:seuemail@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-ceo-lumethros-7a3866283/)  
+- [Email](mailto:seuemail@gmail.com)
+- Conheça a Lumethros: [LinkedIn](https://www.linkedin.com/in/lumethros-ag%C3%AAncia-de-marketing-a6214b380/)  
 - Obrigado por estar aqui!
 ---
 
